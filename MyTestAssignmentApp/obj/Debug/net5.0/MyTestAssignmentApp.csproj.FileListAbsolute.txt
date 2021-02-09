@@ -1,0 +1,16 @@
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.csprojAssemblyReference.cache
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.AssemblyInfoInputs.cache
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.AssemblyInfo.cs
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\MyTestAssignmentApp.exe
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\MyTestAssignmentApp.deps.json
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\MyTestAssignmentApp.runtimeconfig.json
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\MyTestAssignmentApp.runtimeconfig.dev.json
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\MyTestAssignmentApp.dll
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\ref\MyTestAssignmentApp.dll
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\bin\Debug\net5.0\MyTestAssignmentApp.pdb
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.dll
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\ref\MyTestAssignmentApp.dll
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.pdb
+C:\Users\balam\Desktop\github\MyTestAssignmentApp\MyTestAssignmentApp\obj\Debug\net5.0\MyTestAssignmentApp.genruntimeconfig.cache
